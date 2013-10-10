@@ -1,0 +1,8 @@
+Name: Joshua Kendall
+kenjos03
+
+2/3 correct
+
+everything looks good, but the equation for problem 1 is not quite correct. 
+Also, using variables to assign values within the equation might help it look neater.
+Nice Job!
