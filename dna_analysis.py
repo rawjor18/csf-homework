@@ -54,6 +54,8 @@ total_count = 0
 # Number of G and C nucleotides seen so far.
 gc_count = 0
 
+at_count = 0
+
 
 # for each base pair in the string,
 for bp in seq:
@@ -71,3 +73,15 @@ gc_content = float(gc_count) / total_count
 
 # Print the answer
 print 'GC-content:', gc_content
+
+
+for bp in seq:
+    total_count = total_count + 1
+    
+    if bp == 'A' or bp == 'T':
+        at_count = at_count +1
+        
+        
+at_content = float(at_count) / total_count
+
+print 'AT-content:', at_content

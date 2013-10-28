@@ -1,5 +1,5 @@
-Name: ...
-Evergreen Login: ...
+Name: JOrdan Rawls
+Evergreen Login: rawjor18
 Computer Science Foundations
 Programming as a Way of Life
 Fall 2013
@@ -19,20 +19,34 @@ Problem 1:
 
 Problem 2:
 
-...
+smaple one   0.43029262963
+sample two   0.451051333333
+sample three 0.646864112524
+sample four  0.347852341166
+sample five  0.263157894737
+sample six   0.491518518519
 
 Problem 3:
 
-...
+the prgram could not run because you must supply a file name as a  argument when running this program.
+The same thing happens when i comment out gc_count = 0 because it has no starting point.
+
 
 Problem 4:
 
-...
+sample one   0.284496925926
+sample two   0.274056462963
+sample three 0.176565578038
+sample four  0.326071414945
+sample five  0.361842105263
+sample six   0.254055555556
 
 Collaboration:
 
-...
+kyle
 
 Reflection:
 
-...
+this assignment was pretty strait forward and helpful with my lack of understanding loops. My advice to future students is to 'read 
+between the lines' and not get caust up with how wordy this problem is. I wish i would have had a better understanding that i was being 
+asked to do because I got flustered by all the information on the dna strands when atually that info was not vital to understand. 
