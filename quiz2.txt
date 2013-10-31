@@ -1,0 +1,12 @@
+# from a module called lab2
+# import a variale called n
+#print on eof the following things:
+# "greater than 50"
+# "equal to 50"
+# based on the value of n
+ 
+ Lab2.py
+ import n
+ n > 50 = 'greater than 50'
+ n == 50 = 'equal to 50'
+ print n
