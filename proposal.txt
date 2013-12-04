@@ -1,0 +1,2 @@
+I talked to you before thanksgiving break about my individual project and the proposal i sent apparently didn’t appear on github and i was unaware. I am not finished with the project but i have put a lot of work into it already and was hoping you would still accept this as a replacement for HW 7 even though the proposal is late.
+I want to create a code that compiles individual, team, and league stats/averages for the evergreen state basketball team then compiles those averages into an efficiency rating using a formula created by basketball guru John Hollinger.
